@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pitagoras</string>
+    <string name="CatA">Medida del cateto A</string>
+    <string name="CatB">Medida del cateto B</string>
+    <string name="BtnH">Calcular</string>
+</resources>
